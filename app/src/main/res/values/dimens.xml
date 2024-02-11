@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="padding_small">8dp</dimen>
+    <dimen name="padding_medium">16dp</dimen>
+    <dimen name="padding_large">32dp</dimen>
+
+    <dimen name="size_font_small">8dp</dimen>
+    <dimen name="size_font_medium">16dp</dimen>
+    <dimen name="size_Font_large">32dp</dimen>
+
+    <dimen name="card_image_width">68dp</dimen>
+    <dimen name="card_image_height">68dp</dimen>
+</resources>
